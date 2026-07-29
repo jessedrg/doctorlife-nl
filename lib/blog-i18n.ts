@@ -18,6 +18,7 @@ import deDrugs from "@/messages/de/blog-drugs.json";
 import frDrugs from "@/messages/fr/blog-drugs.json";
 import ptDrugs from "@/messages/pt/blog-drugs.json";
 import nlDrugs from "@/messages/nl/blog-drugs.json";
+import nlTemplates from "@/messages/nl/blog-templates.json";
 import plDrugs from "@/messages/pl/blog-drugs.json";
 
 export type DrugRaw = {
@@ -143,6 +144,7 @@ const DRUGS_BY_LOCALE: Record<string, BlogDrugsData> = {
    blog-articles.json e registrali qui sotto per completare la localizzazione. */
 const TEMPLATES_BY_LOCALE: Record<string, BlogTemplatesData> = {
   it: itTemplates as BlogTemplatesData,
+  nl: nlTemplates as BlogTemplatesData,
 };
 
 const ARTICLES_BY_LOCALE: Record<string, ArticleDraft[]> = {

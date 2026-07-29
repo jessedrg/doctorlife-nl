@@ -90,12 +90,12 @@ export const COUNTRY_CODE: Record<LocaleCode, string> = {
 
 /** Country name for SEO schemas */
 export const COUNTRY_NAME: Record<LocaleCode, string> = {
-  it: "Italia",
-  de: "Germania",
-  fr: "Francia",
-  pt: "Portogallo",
-  nl: "Paesi Bassi",
-  pl: "Polonia",
+  it: "Italië",
+  de: "Duitsland",
+  fr: "Frankrijk",
+  pt: "Portugal",
+  nl: "Nederland",
+  pl: "Polen",
 };
 
 /** Available languages for contactPoint schema */
@@ -111,7 +111,7 @@ export const AVAILABLE_LANGUAGES: Record<LocaleCode, string[]> = {
 /** Dominio pubblico per paese (usato per SITE_URL dinamico in ogni seo.json). */
 export const DOMAIN: Record<LocaleCode, string> = {
   it: "doctorlife-it.com",
-  de: "doctorlife.de",
+  de: "doctorlife-de.com",
   fr: "doctorlife.fr",
   pt: "doctorlife.pt",
   nl: "doctorlife-nl.com",
