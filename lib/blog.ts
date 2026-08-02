@@ -49,15 +49,15 @@ export type Post = {
 export const BRAND = "DoctorLife";
 
 export const MEDICAL_REVIEWER = {
-  name: "Dott.ssa Laura Méndez",
-  role: "Medico specialista in Endocrinologia e Nutrizione",
-  credentials: "Iscritta all'Ordine dei Medici · Milano",
-  bio: "Endocrinologa iscritta all'Ordine con oltre 12 anni di esperienza in obesità e trattamento con analoghi del GLP‑1. Revisiona i contenuti clinici di DoctorLife.",
+  name: "Dr. Laura Méndez",
+  role: "Arts gespecialiseerd in Endocrinologie en Voeding",
+  credentials: "Geregistreerde arts",
+  bio: "Geregistreerde endocrinoloog met meer dan 12 jaar ervaring in obesitas en behandeling met GLP‑1-analogen. Beoordeelt de klinische inhoud van DoctorLife.",
 };
 
 /* Post principale: il pillar "comprare-wegovy-online" (definito nei
    template centralizzati) diventa il post in evidenza della home blog. */
-const FEATURED_SLUG = "comprare-wegovy-online";
+const FEATURED_SLUG = "wegovy-online-kopen";
 
 /* I post "manuali" sono quelli scritti a mano nel JSON centralizzato
    (messages/{locale}/blog-articles.json): pillar di prodotto, prezzo,

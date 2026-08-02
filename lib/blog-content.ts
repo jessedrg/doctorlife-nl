@@ -135,7 +135,7 @@ function baseVars(drug: Drug, city: City) {
 
 /* ── post "comprare {drug} a {city}" ── */
 function buildBuyPost(drug: Drug, city: City, index: number, hasPrice: boolean): Post {
-  const slug = `comprare-${drug.key}-${city.slug}`;
+  const slug = `kopen-${drug.key}-${city.slug}`;
   const vars = baseVars(drug, city);
   const intros = drug.kind === "weight" ? T.weightIntros : T.diabIntros;
   const intro = pick(intros, slug + "intro");
@@ -228,7 +228,7 @@ function buildBuyPost(drug: Drug, city: City, index: number, hasPrice: boolean):
 
 /* ── post "prezzo di {drug} a {city}" ── */
 function buildPricePost(drug: Drug, city: City, index: number): Post {
-  const slug = `precio-${drug.key}-${city.slug}`;
+  const slug = `prijs-${drug.key}-${city.slug}`;
   const vars = baseVars(drug, city);
   const mech = drug.kind === "weight" ? T.mechWeight : T.mechDiab;
 
@@ -363,7 +363,7 @@ function buildDrugCityPost(drug: Drug, city: City, index: number): Post {
 
 /* ── post "ricetta {drug} online {city}" ── */
 function buildRxCityPost(drug: Drug, city: City, index: number): Post {
-  const slug = `receta-${drug.key}-online-${city.slug}`;
+  const slug = `recept-${drug.key}-online-${city.slug}`;
   const vars = baseVars(drug, city);
   const mech = drug.kind === "weight" ? T.mechWeight : T.mechDiab;
   const steps = pick(T.steps, slug + "steps").map((s) => tpl(s, vars));
@@ -503,7 +503,7 @@ export function generatePosts(existing: Set<string>): Post[] {
   // 1) comprare {drug} a {city}
   for (const drug of DRUGS) {
     for (const city of CITIES) {
-      const slug = `comprare-${drug.key}-${city.slug}`;
+      const slug = `kopen-${drug.key}-${city.slug}`;
       if (seen.has(slug)) continue;
       const hasPrice = PRICE_DRUG_KEYS.has(drug.key);
       out.push(withPlace(buildBuyPost(drug, city, index++, hasPrice), city.name));
@@ -514,7 +514,7 @@ export function generatePosts(existing: Set<string>): Post[] {
   // 2) prezzo di {drug} a {city}
   for (const drug of DRUGS.filter((d) => PRICE_DRUG_KEYS.has(d.key))) {
     for (const city of CITIES) {
-      const slug = `precio-${drug.key}-${city.slug}`;
+      const slug = `prijs-${drug.key}-${city.slug}`;
       if (seen.has(slug)) continue;
       out.push(withPlace(buildPricePost(drug, city, index++), city.name));
       seen.add(slug);
@@ -534,7 +534,7 @@ export function generatePosts(existing: Set<string>): Post[] {
   // 4) "ricetta {drug} online {city}"
   for (const drug of DRUGS.filter((d) => PRICE_DRUG_KEYS.has(d.key))) {
     for (const city of CITIES) {
-      const slug = `receta-${drug.key}-online-${city.slug}`;
+      const slug = `recept-${drug.key}-online-${city.slug}`;
       if (seen.has(slug)) continue;
       out.push(withPlace(buildRxCityPost(drug, city, index++), city.name));
       seen.add(slug);

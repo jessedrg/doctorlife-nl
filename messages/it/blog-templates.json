@@ -424,6 +424,31 @@
       "isThereClinicA": "{City} ({province}) non ha bisogno di una clinica fisica specializzata per accedere al trattamento: con {BRAND} la valutazione con endocrinologo iscritto all'Ordine è in videoconsulto e la ricetta elettronica si dispensa in qualsiasi farmacia. La prima visita è gratis.",
       "howMuchCost": "Quanto costa il trattamento da {City}?",
       "howMuchCostA": "Il farmaco costa lo stesso che nel resto d'Italia (Ozempic 120–170 €/mese; Wegovy o Saxenda 200–300 €/mese; Mounjaro 200–350 €/mese, orientativi). In {BRAND}, la prima visita medica è gratis."
+    },
+    "postMeta": {
+      "slugPrefix": "clinica-perdita-di-peso-",
+      "title": "Clinica per la perdita di peso a {City}",
+      "h1": "Clinica per la perdita di peso a {City}: GLP‑1 con medico online",
+      "metaTitle": "Clinica Perdita di Peso a {City} ({province}): GLP‑1 Online",
+      "metaDescription": "Clinica online per la perdita di peso a {City} ({province}): endocrinologo iscritto all'Ordine, ricetta di Wegovy, Ozempic o Mounjaro e follow-up tramite app. Prima visita gratis!",
+      "excerpt": "Trattamento medico per dimagrire a {City} senza spostarti: valutazione in videoconsulto, ricetta elettronica valida in farmacia e follow-up clinico continuo.",
+      "category": "Clinica",
+      "keyword": "clinica perdita di peso {City}",
+      "coverAlt": "Clinica online per la perdita di peso con GLP‑1 a {City} ({province})",
+      "pricingCaption": "Prezzi orientativi in farmacia nella provincia di {province}",
+      "pricingHead": ["Farmaco", "Principio attivo", "Somministrazione", "Prezzo/mese"],
+      "pricingRows": [
+        ["Wegovy", "semaglutide 2,4 mg", "Iniezione settimanale", "200–300 €"],
+        ["Mounjaro", "tirzepatide", "Iniezione settimanale", "200–350 €"],
+        ["Ozempic", "semaglutide", "Iniezione settimanale", "120–170 €"],
+        ["Saxenda", "liraglutide", "Iniezione giornaliera", "200–300 €"]
+      ],
+      "whyOnlineSmall": "Senza spostamenti: non dipendi dalla distanza tra {City} e il capoluogo di provincia per vedere uno specialista.",
+      "whyOnlineLarge": "Senza sale d'attesa: il videoconsulto si adatta al tuo orario, non il contrario.",
+      "doctorsLine": "Endocrinologi iscritti all'Ordine in Italia, specializzati in obesità e GLP‑1.",
+      "rxLine": "Ricetta elettronica valida in qualsiasi farmacia, anche nella tua a {City}.",
+      "followUpLine": "Follow-up settimanale tramite app: aderenza, effetti secondari e aggiustamento della dose.",
+      "popSuffix": "abitanti"
     }
   }
 }

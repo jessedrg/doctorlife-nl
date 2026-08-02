@@ -1,6 +1,6 @@
 [
   {
-    "slug": "mounjaro-dose-prezzo",
+    "slug": "mounjaro-dosis-prijs",
     "title": "Mounjaro: prijs per dosis (2,5 tot 15 mg) in Nederland",
     "h1": "Mounjaro prijs per dosis: 2,5, 5, 7,5, 10, 12,5 en 15 mg in Nederland",
     "metaTitle": "Mounjaro prijs per dosis (2,5 tot 15 mg) in Nederland 2026 | DoctorLife",
@@ -56,7 +56,7 @@
         "blocks": [
           { "type": "list", "items": ["Je boekt de eerste gratis online-consult.", "Je vult je anamnese en doelen in via de app.", "Een geregistreerde endocrinoloog beoordeelt je geval en bepaalt, indien aangewezen, de behandeling en startdosis.", "Je ontvangt het e-recept, geldig in elke Nederlandse apotheek.", "Je doet de follow-up en dosisaanpassingen via de app, zonder wachttijden."] },
           { "type": "p", "text": "Bij DoctorLife beoordeelt een geregistreerde endocrinoloog je geval via videoconsult en schrijft, als de behandeling geschikt is, een e-recept voor met follow-up via de app. Het eerste consult is gratis." },
-          { "type": "links", "title": "Verder informeren", "items": [{ "label": "GLP‑1 online kopen in Nederland", "href": "/blog/comprare-glp1-online-italia" }, { "label": "Wegovy prijs in Nederland per dosis", "href": "/blog/wegovy-prezzo-italia" }] }
+          { "type": "links", "title": "Verder informeren", "items": [{ "label": "GLP‑1 online kopen in Nederland", "href": "/blog/glp1-online-kopen-nederland" }, { "label": "Wegovy prijs in Nederland per dosis", "href": "/blog/wegovy-prijs-nederland" }] }
         ]
       }
     ],
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "slug": "wegovy-dose-prezzo",
+    "slug": "wegovy-dosis-prijs",
     "title": "Wegovy: prijs per dosis (0,25 tot 2,4 mg) in Nederland",
     "h1": "Wegovy prijs per dosis: 0,25, 0,5, 1, 1,7 en 2,4 mg in Nederland",
     "metaTitle": "Wegovy prijs per dosis (0,25 tot 2,4 mg) in Nederland 2026 | DoctorLife",
@@ -127,7 +127,7 @@
         "h2": "Hoe je begint met echte medische follow-up",
         "blocks": [
           { "type": "list", "items": ["Je boekt de eerste gratis online-consult.", "Je vult je anamnese en doelen in via de app.", "Een geregistreerde endocrinoloog beoordeelt je geval.", "Je ontvangt het e-recept, geldig in elke Nederlandse apotheek.", "Je doet de follow-up en dosisaanpassingen via de app."] },
-          { "type": "links", "title": "Verder informeren", "items": [{ "label": "GLP‑1 online kopen in Nederland", "href": "/blog/comprare-glp1-online-italia" }, { "label": "GLP‑1-vergelijking: welke kiezen", "href": "/blog/wegovy-vs-mounjaro" }] }
+          { "type": "links", "title": "Verder informeren", "items": [{ "label": "GLP‑1 online kopen in Nederland", "href": "/blog/glp1-online-kopen-nederland" }, { "label": "GLP‑1-vergelijking: welke kiezen", "href": "/blog/wegovy-vs-mounjaro" }] }
         ]
       }
     ],
@@ -139,7 +139,7 @@
     ]
   },
   {
-    "slug": "zepbound-prezzo-italia",
+    "slug": "zepbound-prijs-nederland",
     "title": "Zepbound in Nederland: prijs, beschikbaarheid en alternatief",
     "h1": "Zepbound in Nederland: is het beschikbaar? Prijs en goedgekeurd alternatief",
     "metaTitle": "Zepbound in Nederland: Prijs, Beschikbaarheid en Alternatief | DoctorLife",
@@ -150,7 +150,7 @@
     "sections": [
       { "h2": "Wat is Zepbound?", "blocks": [{ "type": "p", "text": "Zepbound is de merknaam waaronder Eli Lilly tirzepatide in de VS specifiek voor gewichtsverlies verkoopt. In Europa wordt dezelfde werkzame stof onder de naam Mounjaro op de markt gebracht." }] },
       { "h2": "Is Zepbound beschikbaar in Nederland?", "blocks": [{ "type": "p", "text": "Nee. Zepbound is in Nederland niet goedgekeurd of op de markt. Elke website die verzending uit het buitenland aanbiedt, opereert buiten het wettelijke kader en brengt serieuze risico's met zich mee: ongecontroleerd product, douane en geen echtheids garantie." }, { "type": "quote", "text": "Het legale en met recept beschikbare alternatief in Nederland is Mounjaro, dat dezelfde werkzame stof (tirzepatide) bevat." }] },
-      { "h2": "Mounjaro: het goedgekeurde alternatief", "blocks": [{ "type": "p", "text": "Mounjaro is goedgekeurd door de EMA en het CBG en beschikbaar in de apotheek met recept. Een geregistreerde endocrinoloog kan je geval beoordelen en, indien aangewezen, voorschrijven met echte follow-up via de app." }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Mounjaro online kopen in Nederland", "href": "/blog/comprare-mounjaro-online" }, { "label": "Mounjaro prijs in Nederland per dosis", "href": "/blog/mounjaro-prezzo-italia" }] }] }
+      { "h2": "Mounjaro: het goedgekeurde alternatief", "blocks": [{ "type": "p", "text": "Mounjaro is goedgekeurd door de EMA en het CBG en beschikbaar in de apotheek met recept. Een geregistreerde endocrinoloog kan je geval beoordelen en, indien aangewezen, voorschrijven met echte follow-up via de app." }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Mounjaro online kopen in Nederland", "href": "/blog/mounjaro-online-kopen" }, { "label": "Mounjaro prijs in Nederland per dosis", "href": "/blog/mounjaro-prijs-nederland" }] }] }
     ],
     "faqs": [
       { "q": "Zijn Zepbound en Mounjaro hetzelfde medicijn?", "a": "Ze bevatten dezelfde werkzame stof (tirzepatide) maar zijn verschillende merknamen voor verschillende markten: Zepbound in de VS, Mounjaro in Europa." },
@@ -158,7 +158,7 @@
     ]
   },
   {
-    "slug": "semaglutide-orale-pastiglie-prezzo",
+    "slug": "semaglutide-oraal-tabletten-prijs",
     "title": "Orale semaglutide (tabletten): wat is het en prijs",
     "h1": "Orale semaglutide als tablet: Rybelsus, wat is het en hoeveel kost het",
     "metaTitle": "Orale Semaglutide (Tabletten): Wat is het en Prijs in Nederland | DoctorLife",
@@ -169,7 +169,7 @@
     "sections": [
       { "h2": "Wat is orale semaglutide?", "blocks": [{ "type": "p", "text": "Rybelsus is de merknaam van semaglutide als tablet, een oraal alternatief voor de wekelijkse injecties van Ozempic of Wegovy. Het is hoofdzakelijk goedgekeurd voor type-2-diabetes, hoewel het effect op de eetlust vergelijkbaar is met dat van de injecteerbare formules." }, { "type": "p", "text": "Je neemt dagelijks een tablet op een lege maag met een glas water en wacht minstens 30 minuten voor het eten of drinken van iets anders." }] },
       { "h2": "Prijs van Rybelsus in Nederland", "blocks": [{ "type": "table", "caption": "Richtlijnprijs van Rybelsus per dosis", "head": ["Dosis", "Fase", "Richtlijnprijs"], "rows": [["3 mg", "Start (30 dagen)", "120–140 €"], ["7 mg", "Onderhoud", "130–160 €"], ["14 mg", "Onderhoud (hoge dosis)", "160–190 €"]] }, { "type": "quote", "text": "Bij DoctorLife is je eerste medische consult gratis, vrijblijvend." }] },
-      { "h2": "Hoe je begint met recept en follow-up", "blocks": [{ "type": "list", "items": ["Je boekt de eerste gratis online-consult.", "Een geregistreerde arts beoordeelt of orale semaglutide geschikt is voor jouw geval.", "Indien aangewezen, ontvang je het e-recept.", "Je haalt het medicijn op bij de apotheek en doet follow-up via de app."] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Semaglutide online kopen in Nederland", "href": "/blog/comprare-semaglutide-online" }] }] }
+      { "h2": "Hoe je begint met recept en follow-up", "blocks": [{ "type": "list", "items": ["Je boekt de eerste gratis online-consult.", "Een geregistreerde arts beoordeelt of orale semaglutide geschikt is voor jouw geval.", "Indien aangewezen, ontvang je het e-recept.", "Je haalt het medicijn op bij de apotheek en doet follow-up via de app."] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Semaglutide online kopen in Nederland", "href": "/blog/semaglutide-online-kopen" }] }] }
     ],
     "faqs": [
       { "q": "Werkt orale semaglutide net als de injecteerbare?", "a": "Het mechanisme is hetzelfde hormoon, maar de orale biobeschikbaarheid is lager; daarom zijn de tablet-doseringen numeriek hoger. De werkzaamheid varieert per persoon." },
@@ -177,7 +177,7 @@
     ]
   },
   {
-    "slug": "comprare-glp1-estero",
+    "slug": "glp1-buitenland-kopen",
     "title": "Wegovy of Ozempic in het buitenland kopen: wat je moet weten",
     "h1": "Wegovy of Ozempic in het buitenland kopen: risico's en legaal alternatief",
     "metaTitle": "GLP‑1 in het Buitenland Kopen: Risico's en Legaal Alternatief | DoctorLife",
@@ -188,7 +188,7 @@
     "sections": [
       { "h2": "Waarom sommigen GLP‑1 in het buitenland zoeken", "blocks": [{ "type": "p", "text": "Gelegenheids tekorten in de apotheek en de perceptie van lagere prijzen in andere landen drijven sommigen ertoe Wegovy, Ozempic of Mounjaro buiten Nederland te zoeken, vaak via sites die verzending zonder recept beloven." }] },
       { "h2": "De echte risico's", "blocks": [{ "type": "list", "items": ["Geen garantie van echtheid van het product: namaak neemt toe.", "Douaneproblemen: import van voorgeschreven medicijnen zonder vergunning is illegaal.", "Geen controle op opslag tijdens transport (onderbreking koelketting).", "Geen medische beoordeling van je contra-indicaties."] }] },
-      { "h2": "De legale en veilige weg", "blocks": [{ "type": "p", "text": "Bij DoctorLife beoordeelt een geregistreerde arts je geval via videoconsult en geeft, als de behandeling geschikt is, een e-recept af, geldig in elke Nederlandse apotheek. Het eerste consult is gratis." }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "GLP‑1 online kopen in Nederland", "href": "/blog/comprare-glp1-online-italia" }] }] }
+      { "h2": "De legale en veilige weg", "blocks": [{ "type": "p", "text": "Bij DoctorLife beoordeelt een geregistreerde arts je geval via videoconsult en geeft, als de behandeling geschikt is, een e-recept af, geldig in elke Nederlandse apotheek. Het eerste consult is gratis." }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "GLP‑1 online kopen in Nederland", "href": "/blog/glp1-online-kopen-nederland" }] }] }
     ],
     "faqs": [
       { "q": "Is het legaal om GLP‑1 in het buitenland te kopen voor eigen gebruik?", "a": "Het hangt af van het land en de hoeveelheid, maar de meeste online kanalen die deze medicijnen 'zonder recept' aanbieden, handelen illegaal, ongeacht het land van verzending." },
@@ -196,7 +196,7 @@
     ]
   },
   {
-    "slug": "comprare-glp1-online-italia",
+    "slug": "glp1-online-kopen-nederland",
     "title": "GLP‑1 online kopen in Nederland: volledige gids",
     "h1": "GLP‑1 online kopen in Nederland: Wegovy, Mounjaro, Ozempic en Saxenda met recept",
     "metaTitle": "GLP‑1 Online Kopen in Nederland: Recept en Follow-up | DoctorLife",
@@ -207,7 +207,7 @@
     "sections": [
       { "h2": "GLP‑1-behandelingen vereisen altijd een recept", "blocks": [{ "type": "p", "text": "Wegovy, Mounjaro, Ozempic, Saxenda en Rybelsus zijn in Nederland allemaal op recept. Elke site die ze 'zonder recept' aanbiedt, handelt illegaal en brengt je gezondheid in gevaar: ongecontroleerd product, dosering zonder medische controle en geen follow-up." }] },
       { "h2": "Hoe de legale online-weg werkt", "blocks": [{ "type": "list", "items": ["Je boekt de eerste gratis online-consult.", "Een geregistreerde arts beoordeelt je anamnese, BMI en doelen.", "Als de behandeling is aangewezen, ontvang je het e-recept.", "Je haalt het medicijn op bij elke Nederlandse apotheek en doet follow-up via de app."] }, { "type": "quote", "text": "Bij DoctorLife is je eerste medische consult gratis, vrijblijvend. De volledige follow-up verloopt via onze interne app." }] },
-      { "h2": "Richtlijnprijzen per medicijn", "blocks": [{ "type": "table", "caption": "Richtlijnprijs per maand in de apotheek", "head": ["Medicijn", "Werkzame stof", "Prijs/maand"], "rows": [["Wegovy", "semaglutide 2,4 mg", "200–300 €"], ["Mounjaro", "tirzepatide", "200–350 €"], ["Ozempic", "semaglutide", "120–170 €"], ["Saxenda", "liraglutide", "200–300 €"]] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Wegovy prijs in Nederland per dosis", "href": "/blog/wegovy-prezzo-italia" }, { "label": "GLP‑1-vergelijking: welke kiezen", "href": "/blog/wegovy-vs-mounjaro" }] }] }
+      { "h2": "Richtlijnprijzen per medicijn", "blocks": [{ "type": "table", "caption": "Richtlijnprijs per maand in de apotheek", "head": ["Medicijn", "Werkzame stof", "Prijs/maand"], "rows": [["Wegovy", "semaglutide 2,4 mg", "200–300 €"], ["Mounjaro", "tirzepatide", "200–350 €"], ["Ozempic", "semaglutide", "120–170 €"], ["Saxenda", "liraglutide", "200–300 €"]] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Wegovy prijs in Nederland per dosis", "href": "/blog/wegovy-prijs-nederland" }, { "label": "GLP‑1-vergelijking: welke kiezen", "href": "/blog/wegovy-vs-mounjaro" }] }] }
     ],
     "faqs": [
       { "q": "Is het legaal om GLP‑1 online te kopen in Nederland?", "a": "Ja, als consult en recept afkomstig zijn van een geregistreerde arts na een echte beoordeling. Illegaal is alleen kopen 'zonder recept'." },
@@ -215,7 +215,7 @@
     ]
   },
   {
-    "slug": "comprare-wegovy-online",
+    "slug": "wegovy-online-kopen",
     "title": "Wegovy online kopen in Nederland",
     "h1": "Wegovy online kopen in Nederland: prijs, recept en hoe te beginnen",
     "metaTitle": "Wegovy Online Kopen in Nederland: Recept met Arts | DoctorLife",
@@ -226,7 +226,7 @@
     "sections": [
       { "h2": "Wegovy vereist altijd een recept", "blocks": [{ "type": "p", "text": "Wegovy (semaglutide 2,4 mg) is een GLP‑1-analoog specifiek goedgekeurd voor gewichtsverlies. In Nederland wordt het alleen met medisch recept verstrekt na een echte klinische beoordeling." }] },
       { "h2": "Prijs van Wegovy per dosis", "blocks": [{ "type": "table", "caption": "Richtlijnprijs van Wegovy per dosis", "head": ["Dosis", "Fase", "Prijs/maand"], "rows": [["0,25 mg", "Start", "200–230 €"], ["0,5 mg", "Aanpassing", "200–250 €"], ["1 mg", "Verhoging", "230–270 €"], ["1,7 mg", "Verhoging", "250–290 €"], ["2,4 mg", "Onderhoud", "270–300 €"]] }, { "type": "quote", "text": "Bij DoctorLife is je eerste medische consult gratis, vrijblijvend." }] },
-      { "h2": "Hoe je begint", "blocks": [{ "type": "list", "items": ["Je boekt de eerste gratis online-consult.", "Een geregistreerde arts beoordeelt of Wegovy geschikt voor je is.", "Indien aangewezen, ontvang je het e-recept.", "Je haalt Wegovy op bij de apotheek en doet follow-up via de app."] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Wegovy prijs in Nederland per dosis", "href": "/blog/wegovy-prezzo-italia" }, { "label": "Vergelijking: Wegovy vs Mounjaro", "href": "/blog/wegovy-vs-mounjaro" }] }] }
+      { "h2": "Hoe je begint", "blocks": [{ "type": "list", "items": ["Je boekt de eerste gratis online-consult.", "Een geregistreerde arts beoordeelt of Wegovy geschikt voor je is.", "Indien aangewezen, ontvang je het e-recept.", "Je haalt Wegovy op bij de apotheek en doet follow-up via de app."] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Wegovy prijs in Nederland per dosis", "href": "/blog/wegovy-prijs-nederland" }, { "label": "Vergelijking: Wegovy vs Mounjaro", "href": "/blog/wegovy-vs-mounjaro" }] }] }
     ],
     "faqs": [
       { "q": "Kan ik Wegovy zonder recept kopen?", "a": "Nee, het vereist altijd een medisch recept in Nederland. Het zonder recept kopen is illegaal en riskant." },
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "slug": "wegovy-prezzo-italia",
+    "slug": "wegovy-prijs-nederland",
     "title": "Wegovy prijs in Nederland per dosis",
     "h1": "Wegovy prijs in Nederland: hoeveel kost elke dosis",
     "metaTitle": "Wegovy Prijs in Nederland 2026 per Dosis | DoctorLife",
@@ -244,14 +244,14 @@
     "keyword": "wegovy prijs nederland",
     "sections": [
       { "h2": "Prijs van Wegovy per dosis", "blocks": [{ "type": "table", "caption": "Richtlijnprijs van Wegovy in de apotheek per dosis", "head": ["Dosis", "Fase", "Prijs/maand"], "rows": [["0,25 mg", "Start", "200–230 €"], ["0,5 mg", "Aanpassing", "200–250 €"], ["1 mg", "Verhoging", "230–270 €"], ["1,7 mg", "Verhoging", "250–290 €"], ["2,4 mg", "Onderhoud", "270–300 €"]] }, { "type": "quote", "text": "Bij DoctorLife is je eerste medische consult gratis, vrijblijvend." }] },
-      { "h2": "Waarvan de prijs afhangt", "blocks": [{ "type": "list", "items": ["De dosis: stijgt maandelijks tot onderhoud.", "De apotheek en voorraadbeschikbaarheid.", "Of medisch consult en follow-up nodig zijn (inbegrepen bij DoctorLife)."] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Wegovy online kopen in Nederland", "href": "/blog/comprare-wegovy-online" }] }] }
+      { "h2": "Waarvan de prijs afhangt", "blocks": [{ "type": "list", "items": ["De dosis: stijgt maandelijks tot onderhoud.", "De apotheek en voorraadbeschikbaarheid.", "Of medisch consult en follow-up nodig zijn (inbegrepen bij DoctorLife)."] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Wegovy online kopen in Nederland", "href": "/blog/wegovy-online-kopen" }] }] }
     ],
     "faqs": [
       { "q": "Wordt Wegovy vergoed door de verzekering?", "a": "Nee, voor gewichtsverlies wordt het niet vergoed: de patiënt draagt de kosten." }
     ]
   },
   {
-    "slug": "comprare-mounjaro-online",
+    "slug": "mounjaro-online-kopen",
     "title": "Mounjaro online kopen in Nederland",
     "h1": "Mounjaro online kopen in Nederland: prijs, recept en hoe te beginnen",
     "metaTitle": "Mounjaro Online Kopen in Nederland: Recept met Arts | DoctorLife",
@@ -262,14 +262,14 @@
     "sections": [
       { "h2": "Mounjaro vereist altijd een recept", "blocks": [{ "type": "p", "text": "Mounjaro (tirzepatide) is een dubbele GIP/GLP‑1-agonist, goedgekeurd voor gewichtsverlies en type-2-diabetes. In Nederland wordt het alleen met medisch recept verstrekt." }] },
       { "h2": "Prijs van Mounjaro per dosis", "blocks": [{ "type": "table", "caption": "Richtlijnprijs van Mounjaro per dosis", "head": ["Dosis", "Fase", "Prijs/maand"], "rows": [["2,5 mg", "Start", "200–250 €"], ["5 mg", "Aanpassing", "230–280 €"], ["7,5–10 mg", "Verhoging", "280–330 €"], ["12,5–15 mg", "Onderhoud", "300–350 €"]] }, { "type": "quote", "text": "Bij DoctorLife is je eerste medische consult gratis, vrijblijvend." }] },
-      { "h2": "Hoe je begint", "blocks": [{ "type": "list", "items": ["Je boekt de eerste gratis online-consult.", "Een geregistreerde arts beoordeelt of Mounjaro geschikt voor je is.", "Indien aangewezen, ontvang je het e-recept.", "Je haalt Mounjaro op bij de apotheek en doet follow-up via de app."] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Mounjaro prijs in Nederland per dosis", "href": "/blog/mounjaro-prezzo-italia" }, { "label": "Vergelijking: Wegovy vs Mounjaro", "href": "/blog/wegovy-vs-mounjaro" }] }] }
+      { "h2": "Hoe je begint", "blocks": [{ "type": "list", "items": ["Je boekt de eerste gratis online-consult.", "Een geregistreerde arts beoordeelt of Mounjaro geschikt voor je is.", "Indien aangewezen, ontvang je het e-recept.", "Je haalt Mounjaro op bij de apotheek en doet follow-up via de app."] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Mounjaro prijs in Nederland per dosis", "href": "/blog/mounjaro-prijs-nederland" }, { "label": "Vergelijking: Wegovy vs Mounjaro", "href": "/blog/wegovy-vs-mounjaro" }] }] }
     ],
     "faqs": [
       { "q": "Kan ik Mounjaro zonder recept kopen?", "a": "Nee, het vereist altijd een medisch recept in Nederland." }
     ]
   },
   {
-    "slug": "mounjaro-prezzo-italia",
+    "slug": "mounjaro-prijs-nederland",
     "title": "Mounjaro prijs in Nederland per dosis",
     "h1": "Mounjaro prijs in Nederland: hoeveel kost elke dosis",
     "metaTitle": "Mounjaro Prijs in Nederland 2026 per Dosis | DoctorLife",
@@ -279,14 +279,14 @@
     "keyword": "mounjaro prijs nederland",
     "sections": [
       { "h2": "Prijs van Mounjaro per dosis", "blocks": [{ "type": "table", "caption": "Richtlijnprijs van Mounjaro in de apotheek per dosis", "head": ["Dosis", "Fase", "Prijs/maand"], "rows": [["2,5 mg", "Start", "200–250 €"], ["5 mg", "Aanpassing", "230–280 €"], ["7,5–10 mg", "Verhoging", "280–330 €"], ["12,5–15 mg", "Onderhoud", "300–350 €"]] }, { "type": "quote", "text": "Bij DoctorLife is je eerste medische consult gratis, vrijblijvend." }] },
-      { "h2": "Waarvan de prijs afhangt", "blocks": [{ "type": "list", "items": ["De dosis: stijgt geleidelijk tot onderhoud.", "De apotheek en voorraadbeschikbaarheid.", "Of medisch consult en follow-up nodig zijn (inbegrepen bij DoctorLife)."] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Mounjaro online kopen in Nederland", "href": "/blog/comprare-mounjaro-online" }] }] }
+      { "h2": "Waarvan de prijs afhangt", "blocks": [{ "type": "list", "items": ["De dosis: stijgt geleidelijk tot onderhoud.", "De apotheek en voorraadbeschikbaarheid.", "Of medisch consult en follow-up nodig zijn (inbegrepen bij DoctorLife)."] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Mounjaro online kopen in Nederland", "href": "/blog/mounjaro-online-kopen" }] }] }
     ],
     "faqs": [
       { "q": "Wordt Mounjaro vergoed door de verzekering?", "a": "Voor gewichtsverlies wordt het niet vergoed: de patiënt draagt de kosten." }
     ]
   },
   {
-    "slug": "comprare-ozempic-online",
+    "slug": "ozempic-online-kopen",
     "title": "Ozempic online kopen in Nederland",
     "h1": "Ozempic online kopen in Nederland: prijs, recept en hoe te beginnen",
     "metaTitle": "Ozempic Online Kopen in Nederland: Recept met Arts | DoctorLife",
@@ -303,7 +303,7 @@
     ]
   },
   {
-    "slug": "ozempic-prezzo-italia",
+    "slug": "ozempic-prijs-nederland",
     "title": "Ozempic prijs in Nederland per dosis",
     "h1": "Ozempic prijs in Nederland: hoeveel kost elke dosis",
     "metaTitle": "Ozempic Prijs in Nederland 2026 per Dosis | DoctorLife",
@@ -312,14 +312,14 @@
     "category": "Prijzen",
     "keyword": "ozempic prijs nederland",
     "sections": [
-      { "h2": "Prijs van Ozempic per dosis", "blocks": [{ "type": "table", "caption": "Richtlijnprijs van Ozempic in de apotheek per dosis", "head": ["Dosis", "Fase", "Prijs/maand"], "rows": [["0,25 mg", "Start", "120–140 €"], ["0,5 mg", "Onderhoud", "130–150 €"], ["1 mg", "Onderhoud", "150–170 €"]] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Ozempic online kopen in Nederland", "href": "/blog/comprare-ozempic-online" }] }] }
+      { "h2": "Prijs van Ozempic per dosis", "blocks": [{ "type": "table", "caption": "Richtlijnprijs van Ozempic in de apotheek per dosis", "head": ["Dosis", "Fase", "Prijs/maand"], "rows": [["0,25 mg", "Start", "120–140 €"], ["0,5 mg", "Onderhoud", "130–150 €"], ["1 mg", "Onderhoud", "150–170 €"]] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Ozempic online kopen in Nederland", "href": "/blog/ozempic-online-kopen" }] }] }
     ],
     "faqs": [
       { "q": "Wordt Ozempic vergoed door de verzekering?", "a": "Voor type-2-diabetes kan het met specialistvoorschrift worden vergoed; voor gewichtsverlies niet." }
     ]
   },
   {
-    "slug": "comprare-saxenda-italia",
+    "slug": "saxenda-nederland-kopen",
     "title": "Saxenda kopen in Nederland",
     "h1": "Saxenda kopen in Nederland: prijs, recept en hoe te beginnen",
     "metaTitle": "Saxenda Kopen in Nederland: Recept met Arts | DoctorLife",
@@ -336,7 +336,7 @@
     ]
   },
   {
-    "slug": "saxenda-prezzo-italia",
+    "slug": "saxenda-prijs-nederland",
     "title": "Saxenda prijs in Nederland",
     "h1": "Saxenda prijs in Nederland: hoeveel kost de behandeling",
     "metaTitle": "Saxenda Prijs in Nederland 2026 | DoctorLife",
@@ -345,14 +345,14 @@
     "category": "Prijzen",
     "keyword": "saxenda prijs nederland",
     "sections": [
-      { "h2": "Prijs van Saxenda", "blocks": [{ "type": "table", "caption": "Richtlijnprijs van Saxenda", "head": ["Verpakking", "Gebruik", "Prijs"], "rows": [["Pen-verpakking", "Dagelijkse behandeling", "130–200 €/verp."], ["Maandkosten", "Onderhoudsdosis (3,0 mg/dag)", "200–300 €/maand"]] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Saxenda kopen in Nederland", "href": "/blog/comprare-saxenda-italia" }] }] }
+      { "h2": "Prijs van Saxenda", "blocks": [{ "type": "table", "caption": "Richtlijnprijs van Saxenda", "head": ["Verpakking", "Gebruik", "Prijs"], "rows": [["Pen-verpakking", "Dagelijkse behandeling", "130–200 €/verp."], ["Maandkosten", "Onderhoudsdosis (3,0 mg/dag)", "200–300 €/maand"]] }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Saxenda kopen in Nederland", "href": "/blog/saxenda-nederland-kopen" }] }] }
     ],
     "faqs": [
       { "q": "Wordt Saxenda vergoed door de verzekering?", "a": "Nee, voor gewichtsverlies draagt de patiënt de kosten." }
     ]
   },
   {
-    "slug": "comprare-semaglutide-online",
+    "slug": "semaglutide-online-kopen",
     "title": "Semaglutide online kopen in Nederland",
     "h1": "Semaglutide online kopen in Nederland: injecteerbaar en oraal",
     "metaTitle": "Semaglutide Online Kopen in Nederland | DoctorLife",
@@ -361,7 +361,7 @@
     "category": "Gids",
     "keyword": "semaglutide online kopen",
     "sections": [
-      { "h2": "De drie vormen van semaglutide", "blocks": [{ "type": "p", "text": "Semaglutide wordt in Nederland onder drie merknamen verkocht: Wegovy (injecteerbaar, voor gewichtsverlies), Ozempic (injecteerbaar, voor type-2-diabetes) en Rybelsus (oraal, voor type-2-diabetes). Alle vereisen een medisch recept." }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Wegovy prijs in Nederland per dosis", "href": "/blog/wegovy-prezzo-italia" }, { "label": "Orale semaglutide: wat is het en prijs", "href": "/blog/semaglutide-orale-pastiglie-prezzo" }] }] }
+      { "h2": "De drie vormen van semaglutide", "blocks": [{ "type": "p", "text": "Semaglutide wordt in Nederland onder drie merknamen verkocht: Wegovy (injecteerbaar, voor gewichtsverlies), Ozempic (injecteerbaar, voor type-2-diabetes) en Rybelsus (oraal, voor type-2-diabetes). Alle vereisen een medisch recept." }, { "type": "links", "title": "Verder informeren", "items": [{ "label": "Wegovy prijs in Nederland per dosis", "href": "/blog/wegovy-prijs-nederland" }, { "label": "Orale semaglutide: wat is het en prijs", "href": "/blog/semaglutide-oraal-tabletten-prijs" }] }] }
     ],
     "faqs": [
       { "q": "Wat is het verschil tussen Wegovy en Ozempic?", "a": "Ze bevatten dezelfde werkzame stof maar hebben verschillende indicaties: Wegovy voor gewichtsverlies, Ozempic voor type-2-diabetes." }
@@ -419,7 +419,7 @@
     ]
   },
   {
-    "slug": "glp1-in-ricerca",
+    "slug": "glp1-in-onderzoek",
     "title": "Nieuwe GLP‑1 in onderzoek: wat komt eraan",
     "h1": "Nieuwe GLP‑1-medicijnen in onderzoek: retatrutide, CagriSema en andere",
     "metaTitle": "Nieuwe GLP‑1 in Onderzoek 2026: Wat Komt Eraan | DoctorLife",
@@ -428,14 +428,14 @@
     "category": "In onderzoek",
     "keyword": "glp1 onderzoek",
     "sections": [
-      { "h2": "Medicijnen in ontwikkeling", "blocks": [{ "type": "list", "items": ["Retatrutide (Eli Lilly): drievoudige agonist GLP‑1/GIP/glucagon.", "CagriSema (Novo Nordisk): combinatie van cagrilintide en semaglutide.", "Orforglipron (Eli Lilly): orale GLP‑1-agonist als tablet."] }, { "type": "p", "text": "Geen hiervan is nog goedgekeurd door de EMA of het CBG. Ze zijn niet beschikbaar in Nederlandse apotheken." }, { "type": "links", "title": "Vandaag beschikbare alternatieven", "items": [{ "label": "Mounjaro online kopen in Nederland", "href": "/blog/comprare-mounjaro-online" }, { "label": "Wegovy online kopen in Nederland", "href": "/blog/comprare-wegovy-online" }] }] }
+      { "h2": "Medicijnen in ontwikkeling", "blocks": [{ "type": "list", "items": ["Retatrutide (Eli Lilly): drievoudige agonist GLP‑1/GIP/glucagon.", "CagriSema (Novo Nordisk): combinatie van cagrilintide en semaglutide.", "Orforglipron (Eli Lilly): orale GLP‑1-agonist als tablet."] }, { "type": "p", "text": "Geen hiervan is nog goedgekeurd door de EMA of het CBG. Ze zijn niet beschikbaar in Nederlandse apotheken." }, { "type": "links", "title": "Vandaag beschikbare alternatieven", "items": [{ "label": "Mounjaro online kopen in Nederland", "href": "/blog/mounjaro-online-kopen" }, { "label": "Wegovy online kopen in Nederland", "href": "/blog/wegovy-online-kopen" }] }] }
     ],
     "faqs": [
       { "q": "Wanneer zullen deze medicijnen beschikbaar zijn in Nederland?", "a": "Het hangt af van de afronding van fase-III-studies en de EMA/CBG-goedkeuring. Er is geen vaste datum." }
     ]
   },
   {
-    "slug": "mounjaro-wegovy-servono-agli",
+    "slug": "mounjaro-wegovy-naalden-nodig",
     "title": "Hebben Mounjaro en Wegovy aparte naalden nodig?",
     "h1": "Hebben Mounjaro en Wegovy naalden apart nodig? Het duidelijke antwoord",
     "metaTitle": "Mounjaro en Wegovy: Aparte Naalden Nodig? | DoctorLife",

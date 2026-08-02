@@ -185,7 +185,7 @@
 
   "postMeta": {
     "buyPost": {
-      "slug": "comprare-{drugKey}-{citySlug}",
+      "slug": "kopen-{drugKey}-{citySlug}",
       "title": "{Drug} kopen in {City}",
       "h1": "{Drug} kopen in {City}: prijs, recept en hoe te beginnen",
       "metaTitle": "{Drug} kopen in {City}: Online-Recept met Arts in 24u",
@@ -195,7 +195,7 @@
       "keyword": "{drugName} kopen {cityName}"
     },
     "pricePost": {
-      "slug": "precio-{drugKey}-{citySlug}",
+      "slug": "prijs-{drugKey}-{citySlug}",
       "title": "Prijs van {Drug} in {City}",
       "h1": "Prijs van {Drug} in {City}: hoeveel kost het en hoe krijg je het met recept",
       "metaTitle": "{Drug} Prijs in {City} 2026 | Online-Recept met Arts",
@@ -223,7 +223,7 @@
       "keyword": "{drugName} {cityName}"
     },
     "rxCityPost": {
-      "slug": "receta-{drugKey}-online-{citySlug}",
+      "slug": "recept-{drugKey}-online-{citySlug}",
       "title": "{Drug}-recept online in {City}",
       "h1": "{Drug}-recept online in {City}: voorwaarden, prijs en stappen",
       "metaTitle": "{Drug}-Recept Online in {City} | Geregistreerde Arts Vandaag",
@@ -272,7 +272,7 @@
       "buyLabel": "{Drug} online kopen in Nederland",
       "compareLabel": "GLP‑1-vergelijking: welke kiezen",
       "cityPriceLabel": "Prijs van {Drug} in {City}",
-      "cityPriceHref": "/blog/precio-{drugKey}-{citySlug}"
+      "cityPriceHref": "/blog/prijs-{drugKey}-{citySlug}"
     },
     "priceTable": {
       "weightHead": ["Dosis", "Fase", "Indicatieve prijs/maand"],
@@ -333,7 +333,7 @@
     "postMetaDescription": "Volledige gids voor GLP‑1-behandeling om af te vallen in {Name}: prijzen, hoe je het recept krijgt en hoe je begint met online follow-up. Eerste consult gratis!",
     "postExcerpt": "Alles over de medische behandeling om af te vallen in {Name}: GLP‑1-prijzen, online recept en follow-up met geregistreerde arts.",
     "postCoverAlt": "GLP‑1-behandeling met medisch recept voor de provincie {Name}",
-    "postSlug": "behandeling-afvallen-provincie-{slug}",
+    "postSlug": "afvallen-regio-{slug}",
     "pricingCaption": "Indicatieve prijzen van GLP‑1-behandelingen in de apotheek (2026)",
     "pricingHead": ["Behandeling", "Werkzame stof", "Toediening", "Indicatie", "Indicatieve prijs"],
     "pricingRows": [
@@ -343,9 +343,9 @@
       ["Saxenda", "liraglutide", "Dagelijkse injectie", "Gewichtsverlies", "200–300 €/maand"]
     ],
     "capitalLinks": [
-      {"label": "Wegovy kopen in {capital}", "href": "/blog/comprare-wegovy-{capitalSlug}"},
-      {"label": "Mounjaro kopen in {capital}", "href": "/blog/comprare-mounjaro-{capitalSlug}"},
-      {"label": "Ozempic prijs in {capital}", "href": "/blog/precio-ozempic-{capitalSlug}"}
+      {"label": "Wegovy kopen in {capital}", "href": "/blog/kopen-wegovy-{capitalSlug}"},
+      {"label": "Mounjaro kopen in {capital}", "href": "/blog/kopen-mounjaro-{capitalSlug}"},
+      {"label": "Ozempic prijs in {capital}", "href": "/blog/prijs-ozempic-{capitalSlug}"}
     ],
     "howToStartList": [
       "Je boekt de eerste gratis online-consult.",
@@ -365,23 +365,23 @@
     "nationalHubs": ["amsterdam", "rotterdam", "den-haag", "utrecht", "eindhoven", "groningen", "tilburg", "almere"],
     "pillars": {
       "wegovy": [
-        { "label": "Wegovy online kopen in Nederland", "href": "/blog/comprare-wegovy-online" },
-        { "label": "Prijs van Wegovy in Nederland", "href": "/blog/wegovy-prezzo-italia" },
+        { "label": "Wegovy online kopen in Nederland", "href": "/blog/wegovy-online-kopen" },
+        { "label": "Prijs van Wegovy in Nederland", "href": "/blog/wegovy-prijs-nederland" },
         { "label": "Wegovy vs Mounjaro: vergelijking", "href": "/blog/wegovy-vs-mounjaro" }
       ],
       "mounjaro": [
-        { "label": "Mounjaro online kopen in Nederland", "href": "/blog/comprare-mounjaro-online" },
-        { "label": "Prijs van Mounjaro in Nederland", "href": "/blog/mounjaro-prezzo-italia" },
+        { "label": "Mounjaro online kopen in Nederland", "href": "/blog/mounjaro-online-kopen" },
+        { "label": "Prijs van Mounjaro in Nederland", "href": "/blog/mounjaro-prijs-nederland" },
         { "label": "Wegovy vs Mounjaro: vergelijking", "href": "/blog/wegovy-vs-mounjaro" }
       ],
       "ozempic": [
-        { "label": "Ozempic online kopen in Nederland", "href": "/blog/comprare-ozempic-online" },
-        { "label": "Prijs van Ozempic in Nederland", "href": "/blog/ozempic-prezzo-italia" },
+        { "label": "Ozempic online kopen in Nederland", "href": "/blog/ozempic-online-kopen" },
+        { "label": "Prijs van Ozempic in Nederland", "href": "/blog/ozempic-prijs-nederland" },
         { "label": "Ozempic vs Wegovy vs Mounjaro: vergelijking", "href": "/blog/ozempic-vs-wegovy-vs-mounjaro" }
       ],
       "saxenda": [
-        { "label": "Saxenda kopen in Nederland", "href": "/blog/comprare-saxenda-italia" },
-        { "label": "Prijs van Saxenda in Nederland", "href": "/blog/saxenda-prezzo-italia" },
+        { "label": "Saxenda kopen in Nederland", "href": "/blog/saxenda-nederland-kopen" },
+        { "label": "Prijs van Saxenda in Nederland", "href": "/blog/saxenda-prijs-nederland" },
         { "label": "Ozempic vs Saxenda: vergelijking", "href": "/blog/ozempic-vs-saxenda" }
       ]
     },
@@ -424,6 +424,31 @@
       "isThereClinicA": "{City} ({province}) heeft geen fysieke gespecialiseerde kliniek nodig voor toegang tot de behandeling: bij {BRAND} vindt de beoordeling door een geregistreerde endocrinoloog plaats via videoconsult en wordt het e-recept in elke apotheek verstrekt. Het eerste bezoek is gratis.",
       "howMuchCost": "Hoeveel kost de behandeling vanuit {City}?",
       "howMuchCostA": "Het medicijn kost evenveel als in de rest van Nederland (Ozempic 120–170 €/maand; Wegovy of Saxenda 200–300 €/maand; Mounjaro 200–350 €/maand, indicatief). Bij {BRAND} is het eerste medisch consult gratis."
+    },
+    "postMeta": {
+      "slugPrefix": "kliniek-gewichtsverlies-",
+      "title": "Kliniek voor gewichtsverlies in {City}",
+      "h1": "Kliniek voor gewichtsverlies in {City}: GLP‑1 met online arts",
+      "metaTitle": "Kliniek Gewichtsverlies in {City} ({province}): GLP‑1 Online",
+      "metaDescription": "Online kliniek voor gewichtsverlies in {City} ({province}): geregistreerde endocrinoloog, recept voor Wegovy, Ozempic of Mounjaro en follow-up via de app. Eerste consult gratis!",
+      "excerpt": "Medische behandeling om af te vallen in {City} zonder te reizen: beoordeling via videoconsult, geldig e-recept in de apotheek en continue klinische follow-up.",
+      "category": "Kliniek",
+      "keyword": "kliniek gewichtsverlies {City}",
+      "coverAlt": "Online kliniek voor gewichtsverlies met GLP‑1 in {City} ({province})",
+      "pricingCaption": "Richtlijnprijzen in de apotheek in de regio {province}",
+      "pricingHead": ["Medicijn", "Werkzame stof", "Toediening", "Prijs/maand"],
+      "pricingRows": [
+        ["Wegovy", "semaglutide 2,4 mg", "Wekelijkse injectie", "200–300 €"],
+        ["Mounjaro", "tirzepatide", "Wekelijkse injectie", "200–350 €"],
+        ["Ozempic", "semaglutide", "Wekelijkse injectie", "120–170 €"],
+        ["Saxenda", "liraglutide", "Dagelijkse injectie", "200–300 €"]
+      ],
+      "whyOnlineSmall": "Zonder te reizen: je bent niet afhankelijk van de afstand tussen {City} en de provinciehoofdstad om een specialist te zien.",
+      "whyOnlineLarge": "Geen wachtkamers: het videoconsult past zich aan jouw schema aan, niet andersom.",
+      "doctorsLine": "Geregistreerde endocrinologen in Nederland, gespecialiseerd in obesitas en GLP‑1.",
+      "rxLine": "E-recept geldig in elke apotheek, ook die in {City}.",
+      "followUpLine": "Wekelijkse follow-up via de app: therapietrouw, bijwerkingen en dosisaanpassing.",
+      "popSuffix": "inwoners"
     }
   }
 }

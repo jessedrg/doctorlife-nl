@@ -60,7 +60,7 @@ function capitalLinks(r: Region): Block | null {
 }
 
 function buildRegionPost(r: Region, index: number): Post {
-  const slug = `trattamento-dimagrire-regione-${r.slug}`;
+  const slug = `afvallen-regio-${r.slug}`;
   const health = HEALTH_SERVICES[r.name] ?? { short: "SSR", long: "il servizio sanitario regionale" };
   const popText = formatPop(r.pop);
   const vars: Record<string, string> = {

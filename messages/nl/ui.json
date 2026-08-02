@@ -27,6 +27,83 @@
     "subtitle": "Medisch begeleide zorg, afgestemd op jouw lichaam.",
     "altImage": "Glimlachende DoctorLife-patiënt"
   },
+  "blogFunnel": {
+    "badge": "Eerste consult gratis",
+    "title": "Start je behandeling met een geregistreerde endocrinoloog",
+    "subtitle": "Eerste gratis beoordeling. Als je doorgaat, kies je je plan: € 139/maand zonder verplichting, pakket van 5 maanden voor € 449 of diëtist + GLP1 voor € 649, met chat met je arts, GLP‑1-recept indien nodig en follow-up.",
+    "ctaButton": "Eerste consult boeken",
+    "secondaryButton": "Wat is inbegrepen",
+    "imageAlt": "Glimlachende DoctorLife-patiënt"
+  },
+  "blogPopup": {
+    "closeAriaLabel": "Sluiten",
+    "dialogAriaLabel": "Start je behandeling met DoctorLife",
+    "closeButtonAriaLabel": "Melding sluiten",
+    "badge": "Eerste consult gratis",
+    "title": "Jouw afvalplan, ontworpen door artsen",
+    "subtitle": "Geen generieke protocollen. Vanaf € 139/maand zonder verplichting, of pakket van 5 maanden voor € 449.",
+    "includes": [
+      "Consult met geregistreerde endocrinoloog",
+      "GLP‑1-recept indien nodig",
+      "Directe chat met je arts",
+      "Maandelijkse follow-up en aanpassingen"
+    ],
+    "ctaButton": "Mijn eerste consult boeken",
+    "footer": "Eerste consult gratis · Vrijblijvend",
+    "imageAlt": "Maria, DoctorLife-patiënte, lachend"
+  },
+  "ctaBlock": {
+    "badge": "Eerste consult gratis",
+    "titleDefault": "Klaar om te beginnen?",
+    "subtitleCompactDefault": "Boek je eerste gratis beoordeling. Als je doorgaat, kies je je plan: € 139/maand zonder verplichting, pakket van 5 maanden voor € 449 of diëtist + GLP1 voor € 649, met chat met je arts, GLP‑1-recept indien nodig en follow-up.",
+    "subtitleFormDefault": "Boek je eerste gratis beoordeling. Als je doorgaat, vanaf € 139/maand zonder verplichting, of pakket van 5 maanden voor € 449.",
+    "ctaButton": "Eerste consult boeken",
+    "viewPlans": "Plannen bekijken",
+    "bullet1": "Echte geregistreerde artsen",
+    "bullet2": "100% online, vanuit huis",
+    "bullet3": "Zonder verplichting of minimumtermijn",
+    "imageAlt": "Glimlachende DoctorLife-patiënt"
+  },
+  "blogDoctorCard": {
+    "kicker": "Maak kennis met onze arts",
+    "doctorName": "Dr. Miguel A. Guirola",
+    "doctorTitle": "Arts gespecialiseerd in obesitas · Arts bij DoctorLife",
+    "bio": "Bij DoctorLife wordt jouw behandeling beoordeeld en begeleid door onze arts gespecialiseerd in obesitas, die je begeleidt tijdens de hele follow-up.",
+    "imageAlt": "Dr. Miguel A. Guirola, arts gespecialiseerd in obesitas bij DoctorLife"
+  },
+  "blogFilters": {
+    "allLabel": "Alles",
+    "searchLabel": "Zoek in blogartikelen",
+    "searchPlaceholder": "Zoek op behandeling of stad: «Wegovy Amsterdam»…"
+  },
+  "blogInternalLinks": {
+    "ariaLabel": "Gerelateerde links per stad en behandeling",
+    "heading": "Verken per locatie"
+  },
+  "blogSlugPage": {
+    "home": "Home",
+    "blog": "Blog",
+    "updatedOn": "Bijgewerkt op",
+    "readMins": "{mins} min. leestijd",
+    "realCasesTitle": "Echte gevallen met GLP-1-behandeling",
+    "realCasesSubtitle": "Mensen die hun plan begonnen zijn met medische begeleiding. Swipe voor meer gevallen.",
+    "faqTitle": "Veelgestelde vragen",
+    "finalCtaTitle": "Klaar om te beginnen?",
+    "finalCtaSubtitle": "Boek je eerste gratis consult en begin met een plan dat op jou is afgestemd.",
+    "finalCtaImageAlt": "Daniel, DoctorLife-patiënt, lachend",
+    "disclaimer": "Deze inhoud is uitsluitend informatief en vervangt niet het medisch advies. GLP‑1-behandelingen vereisen een beoordeling en recept van een geregistreerde zorgprofessional. Inhoud beoordeeld door {reviewer} ({credentials}).",
+    "dateLocale": "nl-NL",
+    "keepReading": "Verder lezen"
+  },
+  "authorCard": {
+    "writtenBy": "Geschreven door",
+    "reviewedBy": "Medisch beoordeeld door"
+  },
+  "medicalDisclaimer": {
+    "ariaLabel": "Medische kennisgeving",
+    "text": "Deze inhoud is uitsluitend informatief en vervangt niet het advies, de diagnose of behandeling van een zorgprofessional. Begin, wijzig of onderbreek geen enkele behandeling zonder medische beoordeling. Behandelingen met GLP‑1-analogen vereisen een recept en begeleiding door een geregistreerde zorgprofessional.",
+    "reviewedBySuffix": "Inhoud beoordeeld door {reviewer}."
+  },
   "immersiveProduct": {
     "titleLine1": "Een nieuw tijdperk voor",
     "titleLine2": "gewichtszorg",

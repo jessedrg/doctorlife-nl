@@ -31,7 +31,7 @@ const DRUG_NAME: Record<DrugKey, string> = {
 };
 
 type Kind = "buy" | "price" | "availability";
-const KIND_PREFIX: Record<Kind, string> = { buy: "comprare-", price: "precio-", availability: "" };
+const KIND_PREFIX: Record<Kind, string> = { buy: "kopen-", price: "prijs-", availability: "" };
 
 function tpl(s: string, vars: Record<string, string>): string {
   return s.replace(/\{(\w+)\}/g, (_, k) => vars[k] ?? `{${k}}`);

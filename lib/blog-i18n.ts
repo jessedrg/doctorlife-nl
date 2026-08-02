@@ -160,6 +160,14 @@ export type BlogTemplatesData = {
     howItWorks: string[];
     sections: Record<string, string>;
     faqs: Record<string, string>;
+    postMeta: {
+      slugPrefix: string;
+      title: string; h1: string; metaTitle: string; metaDescription: string;
+      excerpt: string; category: string; keyword: string; coverAlt: string;
+      pricingCaption: string; pricingHead: string[]; pricingRows: string[][];
+      whyOnlineSmall: string; whyOnlineLarge: string; doctorsLine: string;
+      rxLine: string; followUpLine: string; popSuffix: string;
+    };
   };
   internalLinks: {
     nationalHubs: string[];
