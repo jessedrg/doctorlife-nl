@@ -443,22 +443,37 @@ export async function sendLeadNotification(lead: LeadEmailData): Promise<SendRes
 </body>
 </html>`
 
-  try {
-    const { data, error } = await resend.emails.send({
-      from: LEAD_FROM,
-      to: LEAD_NOTIFICATION_RECIPIENTS,
-      replyTo: lead.email,
-      subject: title,
-      html,
-    })
-    if (error) {
-      console.log("[v0] sendLeadNotification error:", error.message ?? error)
-      return { ok: false, error: error.message ?? "Error al enviar el email" }
+  // Reintenta el envío ante fallos transitorios de Resend (red, rate limit, 5xx).
+  const MAX_ATTEMPTS = 3
+  let lastError = "Error desconocido al enviar el email"
+
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    try {
+      const { data, error } = await resend.emails.send({
+        from: LEAD_FROM,
+        to: LEAD_NOTIFICATION_RECIPIENTS,
+        replyTo: lead.email,
+        subject: title,
+        html,
+      })
+      if (error) {
+        lastError = error.message ?? "Error al enviar el email"
+        console.log(`[v0] sendLeadNotification error (intento ${attempt}/${MAX_ATTEMPTS}):`, lastError)
+      } else {
+        if (attempt > 1) console.log(`[v0] sendLeadNotification enviado en el intento ${attempt}`)
+        return { ok: true, id: data?.id }
+      }
+    } catch (err) {
+      lastError = err instanceof Error ? err.message : "Error desconocido al enviar el email"
+      console.log(`[v0] sendLeadNotification exception (intento ${attempt}/${MAX_ATTEMPTS}):`, lastError)
     }
-    return { ok: true, id: data?.id }
-  } catch (err) {
-    const message = err instanceof Error ? err.message : "Error desconocido al enviar el email"
-    console.log("[v0] sendLeadNotification exception:", message)
-    return { ok: false, error: message }
+
+    // Backoff exponencial antes del siguiente intento (500ms, 1000ms), sin esperar tras el último.
+    if (attempt < MAX_ATTEMPTS) {
+      await new Promise((resolve) => setTimeout(resolve, 500 * attempt))
+    }
   }
+
+  console.log(`[v0] sendLeadNotification agotó ${MAX_ATTEMPTS} intentos:`, lastError)
+  return { ok: false, error: lastError }
 }
