@@ -334,6 +334,10 @@
     "postExcerpt": "Alles over de medische behandeling om af te vallen in {Name}: GLP‑1-prijzen, online recept en follow-up met geregistreerde arts.",
     "postCoverAlt": "GLP‑1-behandeling met medisch recept voor de provincie {Name}",
     "postSlug": "afvallen-regio-{slug}",
+    "category": "Gids",
+    "keywordVerb": "afvallen",
+    "healthFallbackShort": "zorgverzekering",
+    "healthFallbackLong": "de basiszorgverzekering",
     "pricingCaption": "Indicatieve prijzen van GLP‑1-behandelingen in de apotheek (2026)",
     "pricingHead": ["Behandeling", "Werkzame stof", "Toediening", "Indicatie", "Indicatieve prijs"],
     "pricingRows": [

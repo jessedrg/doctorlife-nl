@@ -1,13 +1,13 @@
 {
   "herramientas": {
     "metaTitle": "Gratis gezondheids- en gewichtscalculators | DoctorLife",
-    "metaDescription": "Gratis gezondheidscalculators: BMI, calorieverbruik (TDEE), calorietekort en dagelijkse eiwitbehoefte. Directe resultaten en medische begeleiding van DoctorLife.",
+    "metaDescription": "Gratis gezondheidscalculators: BMI en calorieverbruik (TDEE). Directe resultaten en medische begeleiding van DoctorLife.",
     "breadcrumbHome": "Home",
     "breadcrumbTools": "Tools",
     "badge": "Gratis tools",
     "title": "Calculators voor",
     "titleHighlight": "gezondheid en gewicht",
-    "description": "Wetenschappelijk onderbouwde tools om je lichaam te begrijpen: BMI, calorieverbruik, tekort en eiwit. Het is een startpunt — voor een echt plan maakt een medische beoordeling het verschil.",
+    "description": "Wetenschappelijk onderbouwde tools om je lichaam te begrijpen: BMI en calorieverbruik. Het is een startpunt — voor een echt plan maakt een medische beoordeling het verschil.",
     "toolsListHeading": "Lijst met calculators",
     "openCalculator": "Calculator openen →",
     "relatedTitle": "Blijf jezelf informeren",
@@ -21,16 +21,6 @@
         "title": "TDEE-calculator",
         "desc": "Berekenen jouw totale dagelijkse energieverbruik: hoeveel calorieën je verbrandt afhankelijk van je activiteit.",
         "tag": "Calorieën"
-      },
-      "deficit": {
-        "title": "Calorietekort-calculator",
-        "desc": "Ontdek hoeveel calorieën je moet eten om op een gezond en duurzaam tempo af te vallen.",
-        "tag": "Gewichtsverlies"
-      },
-      "protein": {
-        "title": "Calculator dagelijkse eiwitbehoefte",
-        "desc": "Berekenen hoeveel eiwit je per dag nodig hebt op basis van je gewicht, doel en activiteitsniveau.",
-        "tag": "Voeding"
       }
     },
     "related": [
