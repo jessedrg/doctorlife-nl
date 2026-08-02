@@ -1,0 +1,222 @@
+{
+  "bmi": {
+    "meta": {
+      "title": "Gratis BMI-calculator",
+      "description": "Bereken je Body Mass Index in enkele seconden. Ontdek of je gewicht gezond is en ontvang gepersonaliseerde medische aanbevelingen van DoctorLife."
+    },
+    "breadcrumb": { "home": "Start", "tools": "Tools", "current": "BMI-calculator" },
+    "hero": {
+      "badge": "Gratis tool",
+      "titleLine1": "BMI-calculator",
+      "subtitle": "De Body Mass Index gebruikt je lengte en gewicht om te schatten of je gewicht binnen een gezond bereik valt. Bereken de jouwe in seconden.",
+      "unitMetric": "cm / kg",
+      "unitImperial": "in / lb",
+      "heightLabel": "Lengte",
+      "heightUnitCm": "cm",
+      "heightUnitIn": "inch",
+      "weightLabel": "Gewicht",
+      "weightUnitKg": "kg",
+      "weightUnitLb": "pond",
+      "calculateButton": "Bereken mijn BMI",
+      "errorMessage": "Vul je lengte en gewicht in om te berekenen.",
+      "yourBmi": "JOUW BMI",
+      "enterYourData": "Vul je gegevens in",
+      "categories": {
+        "bajo": { "label": "Ondergewicht", "resultText": "Je BMI wijst op ondergewicht. Praat met een zorgverlener om onderliggende oorzaken uit te sluiten." },
+        "normal": { "label": "Normaal gewicht", "resultText": "Je gewicht valt binnen het gezonde bereik voor je lengte. Behoud je gezonde eet- en beweeggewoonten!" },
+        "sobre": { "label": "Overgewicht", "resultText": "Je BMI wijst op overgewicht. Een arts kan je helpen met een persoonlijk plan." },
+        "obesidad": { "label": "Obesitas", "resultText": "Je BMI wijst op obesitas. Een specialist kan beoordelen welke medisch begeleide behandeling geschikt voor je is." }
+      },
+      "ctaButton": "Praat met een arts — 1e consult gratis",
+      "disclaimer": "BMI meet niet direct de lichaamssamenstelling en kan onnauwkeurig zijn bij personen met veel spiermassa, zwangeren, minderjarigen of ouderen. Raadpleeg altijd een arts."
+    },
+    "overview": {
+      "title": "Overzicht",
+      "subtitle": "BMI is een praktische indicator, maar wat je ermee doet is belangrijk. Zo interpreteer je elke categorie en wat de aanbevolen volgende stap is.",
+      "cards": [
+        { "bmi": "< 18,5", "label": "Ondergewicht", "color": "#5fb3a3", "text": "Je BMI valt onder het gezonde bereik. Praat met een zorgverlener om onderliggende oorzaken uit te sluiten en advies te krijgen." },
+        { "bmi": "18,5 – 24,9", "label": "Normaal gewicht", "color": "#cdd9a0", "text": "Je gewicht valt binnen het gezonde bereik voor je lengte. Behoud je gebalanceerde eet- en beweeggewoonten." },
+        { "bmi": "25 – 29,9", "label": "Overgewicht", "color": "#e3b582", "text": "Je BMI wijst op overgewicht. Een kleine gedragsverandering of een medisch begeleid plan kan veel verschil maken." },
+        { "bmi": "> 30", "label": "Obesitas", "color": "#c98a4f", "text": "Je BMI wijst op obesitas. Een specialist kan beoordelen of een medisch begeleide medicamenteuze behandeling (zoals semaglutide of tirzepatide) geschikt voor je is." }
+      ],
+      "formulaTitle": "Hoe wordt BMI berekend?",
+      "formulaDesc": "De formule is heel eenvoudig: deel je gewicht in kilo's door het kwadraat van je lengte in meters.",
+      "formulaLabel": "Formule",
+      "formulaText": "BMI = gewicht (kg) ÷ lengte² (m)",
+      "formulaExample": "Bijv.: 75 kg ÷ (1,70 × 1,70) =",
+      "formulaResult": "25,95",
+      "formulaNote": "Let op: BMI maakt geen onderscheid tussen spier- en vetmassa en kan het risico onder- of overschatten bij zeer gespierde personen, zwangeren, ouderen of minderjarigen. Gebruik het altijd als uitgangspunt, niet als definitieve diagnose."
+    },
+    "faq": {
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "q": "Wat betekent BMI?", "a": "De Body Mass Index (BMI) is een maat die je gewicht en lengte met elkaar in verband brengt. Hij wordt berekend door het gewicht in kilogram te delen door het kwadraat van de lengte in meters. Het is een nuttig screeningsinstrument, maar meet niet direct de lichaamsvetmassa." },
+        { "q": "Waarvoor is het nuttig om mijn BMI te kennen?", "a": "BMI is een indicatieve indicator van of je gewicht een gezondheidsrisico kan vormen. Als het buiten het gezonde bereik valt, kan dit een startpunt zijn om met een arts te praten over mogelijke verbeteringen." },
+        { "q": "Is BMI voldoende om mijn gezondheid te beoordelen?", "a": "Nee. BMI is slechts een schatting. Het maakt geen onderscheid tussen spier- en vetmassa en houdt geen rekening met vetverdeling, leeftijd, geslacht of lichaamssamenstelling. Een zorgverlener kan een completere beoordeling uitvoeren." },
+        { "q": "Wat moet ik doen als mijn BMI overgewicht of obesitas aangeeft?", "a": "De eerste stap is een medische beoordeling. Bij DoctorLife kun je die gratis krijgen om te weten of een medisch begeleid afvalplan — inclusief GLP‑1-behandelingen zoals semaglutide of tirzepatide — geschikt is voor jouw situatie." },
+        { "q": "Hoe wordt BMI berekend?", "a": "De formule is: BMI = gewicht (kg) ÷ lengte² (m). Bijvoorbeeld, als je 1,70 m meet en 75 kg weegt: BMI = 75 ÷ (1,70 × 1,70) = 25,95." }
+      ]
+    },
+    "cta": {
+      "badge": "Eerste consult gratis",
+      "title": "Klaar om te beginnen?",
+      "subtitle": "Boek je eerste gratis consult en begin met een plan dat om jou draait.",
+      "ctaButton": "Eerste consult boeken",
+      "viewPlans": "Bekijk plannen"
+    }
+  },
+  "tdee": {
+    "meta": {
+      "title": "Gratis TDEE-calculator (calorieverbruik)",
+      "description": "Bereken je totale dagelijkse energieverbruik (TDEE): hoeveel calorieën je per dag verbrandt op basis van je activiteit. Persoonlijke schatting van DoctorLife."
+    },
+    "breadcrumb": { "home": "Start", "tools": "Tools", "current": "TDEE-calculator" },
+    "activity": {
+      "sedentary": { "label": "Zittend", "desc": "Geen of zeer weinig beweging" },
+      "light": { "label": "Licht", "desc": "Beweging 1–3 dagen/week" },
+      "moderate": { "label": "Matig", "desc": "Beweging 3–5 dagen/week" },
+      "active": { "label": "Actief", "desc": "Beweging 6–7 dagen/week" },
+      "very_active": { "label": "Zeer actief", "desc": "Zwaar fysiek werk + beweging" }
+    },
+    "hero": {
+      "badge": "Gratis tool",
+      "titleLine1": "TDEE-calculator",
+      "subtitle": "Je totale dagelijkse energieverbruik (TDEE) is een schatting van de calorieën die je per dag verbrandt. Gebruik het om te weten hoeveel je moet eten om af te vallen, op gewicht te blijven of aan te komen.",
+      "unitMetric": "kg / cm",
+      "unitImperial": "lb / in",
+      "sexLabel": "Biologisch geslacht",
+      "male": "Man",
+      "female": "Vrouw",
+      "ageLabel": "Leeftijd (jaar)",
+      "weightLabel": "Gewicht",
+      "heightLabel": "Lengte",
+      "heightUnitCm": "cm",
+      "heightUnitIn": "inch",
+      "activityLabel": "Activiteitsniveau",
+      "bodyFatLabel": "Lichaamsvetpercentage %",
+      "bodyFatOptional": "optioneel — verbetert de nauwkeurigheid",
+      "bodyFatNote": "Als je je lichaamsvetpercentage invult, gebruiken we de Katch-McArdle-formule (nauwkeuriger voor sporters of personen met veel of weinig spiermassa).",
+      "errorMessage": "Vul een geldige leeftijd, gewicht en lengte in om te berekenen.",
+      "calculateButton": "Bereken mijn TDEE",
+      "yourTdee": "Jouw TDEE",
+      "toMaintain": "Om je huidige gewicht te behouden",
+      "kcalDay": "kcal/dag",
+      "calorieAdjustment": "Calorieaanpassing",
+      "perWeek05kg": "0,5 kg/week",
+      "perWeek1lb": "1 lb/week",
+      "loseKgPerWeek": "{amount} per week verliezen",
+      "tdeeComposition": "Samenstelling van je TDEE",
+      "bmr": "BMR",
+      "activity_": "Activiteit",
+      "digestion": "Vertering",
+      "fillFormToSee": "Vul het formulier in om je calorische doel te zien.",
+      "ctaButton": "Persoonlijk medisch plan krijgen"
+    },
+    "disclaimer": "TDEE is een schatting. Het werkelijke verbruik varieert op basis van lichaamssamenstelling, individueel metabolisme en gezondheidstoestand. Raadpleeg altijd een arts voordat je belangrijke dieetveranderingen doorvoert."
+  },
+  "deficit": {
+    "meta": {
+      "title": "Gratis calorietekort-calculator",
+      "description": "Ontdek hoeveel calorieën je moet eten om op een gezond en duurzaam tempo af te vallen. Persoonlijke schatting van DoctorLife."
+    },
+    "breadcrumb": { "home": "Start", "tools": "Tools", "current": "Calorietekort-calculator" },
+    "activity": [
+      { "label": "Zittend (weinig of geen beweging)", "value": 1.2 },
+      { "label": "Licht (1-3 dagen/week)", "value": 1.375 },
+      { "label": "Matig (3-5 dagen/week)", "value": 1.55 },
+      { "label": "Actief (6-7 dagen/week)", "value": 1.725 },
+      { "label": "Zeer actief (fysiek werk + beweging)", "value": 1.9 }
+    ],
+    "rates": [
+      { "label": "0,25 kg/week (~275 kcal/dag)", "deficit": 275 },
+      { "label": "0,5 kg/week (~550 kcal/dag)", "deficit": 550 },
+      { "label": "0,75 kg/week (~825 kcal/dag)", "deficit": 825 },
+      { "label": "1 kg/week (~1100 kcal/dag)", "deficit": 1100 }
+    ],
+    "hero": {
+      "titleLine1": "Calorietekort-calculator",
+      "subtitle": "Bereken hoeveel calorieën je dagelijks moet consumeren om je streefgewicht te bereiken. Krijg een persoonlijke schatting van het calorietekort op basis van je gegevens en gewenst afslanktempo.",
+      "unitMetric": "Metrisch",
+      "unitImperial": "Imperiaal",
+      "sexLabel": "Biologisch geslacht",
+      "male": "Man",
+      "female": "Vrouw",
+      "ageLabel": "Leeftijd",
+      "agePlaceholder": "Jaar",
+      "weightLabel": "Gewicht",
+      "heightLabel": "Lengte",
+      "heightPlaceholderFt": "voet",
+      "heightPlaceholderIn": "inch",
+      "activityLabel": "Activiteitsniveau",
+      "goalWeightLabel": "Streefgewicht",
+      "rateLabel": "Afslanktempo",
+      "bodyFatLabel": "Lichaamsvet %",
+      "bodyFatOptional": "(optioneel)",
+      "bodyFatPlaceholder": "Percentage",
+      "calculateButton": "Bereken",
+      "yourResult": "Jouw resultaat",
+      "toMaintain": "Om huidig gewicht te behouden",
+      "kcalDay": "kcal/dag",
+      "toLose": "Om te verliezen",
+      "doubleRate": "×2/week",
+      "yourGoal": "Jouw doel",
+      "reach": "Bereiken van {goal}",
+      "weeks": "weken",
+      "enterGoalToSee": "Vul je streefgewicht in om de geschatte tijd te zien.",
+      "ctaText": "Wil je een medisch begeleid afvalplan? Begin met een gratis beoordeling.",
+      "ctaButton": "Start gratis beoordeling"
+    }
+  },
+  "protein": {
+    "meta": {
+      "title": "Gratis calculator voor dagelijkse eiwitinname",
+      "description": "Bereken hoeveel eiwit je dagelijks nodig hebt, op basis van je gewicht, doel en activiteitsniveau. Persoonlijke schatting van DoctorLife."
+    },
+    "breadcrumb": { "home": "Start", "tools": "Tools", "current": "Eiwitcalculator" },
+    "activity": {
+      "sedentario": "Zittend (geen beweging)",
+      "ligero": "Licht (1–2 dagen/week)",
+      "moderado": "Matig (3–5 dagen/week)",
+      "activo": "Actief (6–7 dagen/week)",
+      "muy-activo": "Zeer actief (2× per dag)"
+    },
+    "goal": {
+      "perder": "Afvallen",
+      "mantener": "Gewicht behouden",
+      "ganar": "Spieren opbouwen",
+      "rendimiento": "Sportprestaties"
+    },
+    "hero": {
+      "unitMetric": "Metrisch (kg/cm)",
+      "unitImperial": "Imperiaal (lb/in)",
+      "titleLine1": "Calculator voor dagelijkse eiwitinname",
+      "subtitle": "Bereken hoeveel eiwit je dagelijks nodig hebt, op basis van je gewicht, doel en activiteitsniveau. Krijg een persoonlijk bereik gebaseerd op wetenschappelijk bewijs.",
+      "sexLabel": "Biologisch geslacht",
+      "male": "Man",
+      "female": "Vrouw",
+      "ageLabel": "Leeftijd",
+      "agePlaceholder": "Jaar",
+      "weightLabel": "Gewicht",
+      "heightLabel": "Lengte",
+      "heightPlaceholderFt": "voet",
+      "heightPlaceholderIn": "inch",
+      "activityLabel": "Activiteitsniveau",
+      "goalLabel": "Doel",
+      "bodyFatLabel": "Lichaamsvet %",
+      "bodyFatOptional": "(optioneel — verbetert de nauwkeurigheid)",
+      "calculateButton": "Bereken eiwit",
+      "yourProtein": "Jouw dagelijkse eiwitinname",
+      "gDay": "g/dag",
+      "recommendedRange": "Aanbevolen bereik:",
+      "calculatedOnLeanMass": "Berekend op basis van vetvrije massa:",
+      "meals": "maaltijden",
+      "fillFormToSee": "Vul het formulier in en druk op berekenen",
+      "referenceMin": { "label": "Minimale aanbeveling", "mult": "0,8 g/kg", "desc": "WHO-basisvereiste" },
+      "referenceLose": { "label": "Om af te vallen", "mult": "1,6–2,0 g/kg", "desc": "Behoudt spiermassa" },
+      "referenceGain": { "label": "Om spieren op te bouwen", "mult": "1,8–2,5 g/kg", "desc": "Maximale eiwitsynthese" },
+      "referenceElite": { "label": "Elitesporters", "mult": "2,2–3,1 g/kg", "desc": "Hoog trainingsvolume" },
+      "ctaText": "Wil je een persoonlijk voedings- en gewichtsplan met medische begeleiding?",
+      "ctaButton": "Praat met een arts"
+    }
+  }
+}

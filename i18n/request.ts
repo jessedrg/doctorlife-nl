@@ -48,6 +48,7 @@ const LOADERS: Record<string, () => Promise<Record<string, unknown>>> = {
     pages: (await import("../messages/nl/pages.json")).default,
     seo: (await import("../messages/nl/seo.json")).default,
     glp1Info: (await import("../messages/nl/glp1-info.json")).default,
+    calculators: (await import("../messages/nl/calculators.json")).default,
   }),
   pl: async () => ({
     ui: (await import("../messages/pl/ui.json")).default,
