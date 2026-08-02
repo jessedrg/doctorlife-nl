@@ -361,6 +361,27 @@
     ]
   },
 
+  "seoMeta": {
+    "valueSuffix": "Consult + Online-Recept",
+    "rxTitleSuffix": "met geregistreerde arts binnen 24u",
+    "comparisonTitleSuffix": "· Welke kiezen met recept",
+    "checks": ["✓ Online recept", "✓ Geregistreerde artsen", "✓ Zonder wachtlijsten", "✓ 1e consult gratis", "✓ Follow-up in onze app"],
+    "comparisonLead": "{compareName}: welke kiezen en start met medische beoordeling.",
+    "priceLead": "{drug}{where}: actuele prijs en hoe je het legaal krijgt.",
+    "rxLead": "Krijg je {drug}-recept online, snel en legaal.",
+    "clinicLead": "Medische behandeling om af te vallen{where} met {drug}.",
+    "buyLead": "Start vandaag je behandeling met {drug}{where}.",
+    "defaultLead": "Behandeling met {drug}{where}, onder medisch toezicht.",
+    "whereConnector": " in {city}",
+    "comparisonMarker": "-vs-",
+    "priceKeywords": ["prijs"],
+    "rxKeywords": ["recept"],
+    "clinicKeywords": ["kliniek", "afvallen"],
+    "buyKeywords": ["kopen"],
+    "comparisonCategory": "Vergelijkingen",
+    "cityMarker": " in ",
+    "countryName": "Nederland"
+  },
   "internalLinks": {
     "nationalHubs": ["amsterdam", "rotterdam", "den-haag", "utrecht", "eindhoven", "groningen", "tilburg", "almere"],
     "pillars": {

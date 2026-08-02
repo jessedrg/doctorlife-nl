@@ -174,6 +174,15 @@ export type BlogTemplatesData = {
     pillars: Record<string, { label: string; href: string }[]>;
     labels: Record<string, string>;
   };
+  seoMeta: {
+    valueSuffix: string; rxTitleSuffix: string; comparisonTitleSuffix: string;
+    checks: string[];
+    comparisonLead: string; priceLead: string; rxLead: string;
+    clinicLead: string; buyLead: string; defaultLead: string;
+    whereConnector: string; comparisonMarker: string;
+    priceKeywords: string[]; rxKeywords: string[]; clinicKeywords: string[]; buyKeywords: string[];
+    comparisonCategory: string; cityMarker: string; countryName: string;
+  };
 };
 
 export type ArticleDraft = {
